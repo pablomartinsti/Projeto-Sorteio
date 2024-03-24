@@ -33,11 +33,12 @@ body{
 
     display: flex;
     justify-content: center;
-    gap: 60px;
+    gap: 40px;
     height: 30px;
 
  }
 
+ 
  button{
     display: block;
     margin: 50px auto;
@@ -54,7 +55,7 @@ body{
  @media screen and (max-width: 900px){
 
     body{
-        margin-top: 40%;
+        margin-top: 30%;
     }
 
     img{
@@ -68,9 +69,13 @@ body{
     margin-top: 25%;
     }
 
+    input{
+        width: 85px;
+    }
+
     section{
 
-        gap: 5px ;
+        gap: 25px ;
     }
     button{
         width: 30%;
