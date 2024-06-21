@@ -11,7 +11,7 @@ function gerar() {
 
     else{
 
-    var resp = document.querySelector('.resp');
+    var resp = document.querySelector('.resultado');
     resp.innerHTML = Math.floor(Math.random() * (max - min + 1) ) + min
 
     }
