@@ -1,16 +1,20 @@
-<h1>Sorteador de Números Aleatórios</h1>
+# Projeto Sorteio
+
+Este projeto foi desenvolvido para realizar sorteios de números aleatórios. O usuário pode definir um intervalo de números através de inputs, especificando um número inicial e um número final. A aplicação então sorteia um número aleatório dentro desse intervalo especificado.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5:** Estrutura da página e conteúdo.
+- **CSS3:** Estilização da interface do sorteio.
+- **JavaScript:** Implementação da lógica de sorteio e manipulação do DOM para interatividade.
+
+## ⚙️ Funcionalidades
+
+- Definir um número inicial e um número final para o intervalo de sorteio.
+- Realizar o sorteio de um número aleatório dentro do intervalo especificado.
+- Exibir o número sorteado diretamente na interface.
 
 
-<p>Projeto criando para sortear um numero aleatorio.</p>
-
-<p> Nesse projeto usei o Math.random para gera o numero aleatotio, porem ele nao gera um valor inteiro.</p>
-<p> Para redondar o numero usei o math.ceil e  math.floor. </p>
-<p>Tecnologia usadas </p>
-<br>
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-<img src ="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<br>
 
 Link do projeto: https://pablomartinsti.github.io/Projeto-Sorteio/
 <img src ="https://github.com/pablomartinsti/Projeto-Sorteio/blob/main/assets/projeto-sorteio.png">
